@@ -1,13 +1,13 @@
 <div id="header" align="center">
     <img src="https://media1.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif?cid=ecf05e475n1ji73asci9s4mz0gbl644ymeugsy9iv28c9g89&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300"/>
 <div id="badges">
-  <a href="https://vk.com/defolto">
+  <a target="_blank" href="https://vk.com/defolto">
     <img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D0%B5-blue?logo=VK" alt="Вконтакте"/>
   </a>
-  <a href="https://ru.stackoverflow.com/users/565285/maxim-egorov">
+  <a target="_blank" href="https://ru.stackoverflow.com/users/565285/maxim-egorov">
     <img src="https://img.shields.io/badge/StackOverflow-f8dab8?logo=stackoverflow" alt="stackoverflow"/>
   </a>
-  <a href="https://t.me/defolt0">
+  <a target="_blank" href="https://t.me/defolt0">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram" alt="Телеграм"/>
   </a>
 </div>
