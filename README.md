@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div id="header" align="center">
-    <img src="https://bincol.ru/do/pluginfile.php/63094/course/overviewfiles/e6333b60-f2b9-49d5-a29b-532813d849ea.gif" width="300"/>
+    <img src="https://media2.giphy.com/media/qMBBrQGnCovagXRguC/giphy.gif?cid=ecf05e47o723jqw5zp98fx7b0sm9la9g6k9qt0wr6f42mr42&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="300"/>
   </div>
 </div>
 ### Hi there 👋
