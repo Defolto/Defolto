@@ -20,7 +20,7 @@ Frontend developer and teacher at a private school.
 - 👨‍🏫 Pedagogical experience 4 years.
 - 💻 Commercial development experience 2 years.
 - 🐕 Love and keep a dachshund.
-- 🚘 Really want to buy Mazda 6.
+- 🚘 Really want to buy audi a5.
 
 ---
 
