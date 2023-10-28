@@ -49,9 +49,3 @@ Frontend developer and teacher at a private school.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="socketio" alt="socketio" width="40" height="40"/>
 </div>
-
----
-
-### My stats public repositories:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Defolto&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&border_radius=10)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defolto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
